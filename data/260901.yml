@@ -1,0 +1,64 @@
+about:
+  description: Beads - A memory upgrade for your coding agent
+  license: MIT
+  homepage: https://beads.gascity.com
+  head: d530cdd
+  archived: false
+  latestVersion: v1.3.0-rc.1
+  collectedAt: 2026-09-01T05:16:11Z
+timeline:
+  created: 2025-10-12
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-31
+popularity:
+  star: 26765
+  watcher: 92
+  fork: 1807
+  release: 98
+  contributor: 447
+  pullRequest: 1214
+  issue: 2233
+language:
+  Go: 28882200
+  Shell: 431392
+  Python: 356065
+  Rust: 54546
+  JavaScript: 28746
+  Makefile: 19863
+  PowerShell: 17164
+  Go Template: 6922
+  Nix: 5311
+totalLine: 29802209
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 4
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-03
+    release: 8
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-05
+    release: 18
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-06
+    release: 98
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
