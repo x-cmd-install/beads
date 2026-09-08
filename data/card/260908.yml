@@ -5,19 +5,19 @@ about:
   head: c0d8da4
   archived: false
   latestVersion: "v1.3.0-rc.1"
-  collectedAt: 2026-09-08T02:12:27Z
+  collectedAt: 2026-09-08T04:47:47Z
 timeline:
   created: 2025-10-12
   lastCommit: 2026-09-03
   lastRelease: 2026-08-31
 popularity:
-  star: 26965
-  watcher: 94
+  star: 26968
+  watcher: 95
   fork: 1833
   release: 98
   contributor: 448
-  pullRequest: 3839
-  issue: 2391
+  pullRequest: 3843
+  issue: 2394
 language:
   Go: 29106546
   Shell: 439049
@@ -81,13 +81,13 @@ recent:
 total:
   release: 98
   mergedPR: 2543
-  openPR: 291
+  openPR: 295
   closedIssue: 1641
-  openIssue: 750
+  openIssue: 753
   commit: 10770
 ---
 path: /home/runner/.x-repo/github.com/steveyegge/beads
-collectedAt: 2026-09-08T02:12:52Z
+collectedAt: 2026-09-08T04:48:17Z
 loc:
   Go:
     code: 617457
