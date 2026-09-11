@@ -38,7 +38,7 @@ Total: **679,146** lines of code across **2978** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 27,038 · **Forks**: 1,839 · **Open issues**: 2,422 · **Contributors**: 448
+- **Stars**: 27,044 · **Forks**: 1,839 · **Open issues**: 2,422 · **Contributors**: 448
 
 ## Totals (cumulative)
 
@@ -79,4 +79,4 @@ Install metadata for beads lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:08:12Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:55:15Z._
