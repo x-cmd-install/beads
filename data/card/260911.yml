@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.3.0-rc.2"
   latestRelease: "v1.2.2"
   latestPrerelease: "v1.3.0-rc.2"
-  collectedAt: 2026-09-11T00:07:36Z
+  collectedAt: 2026-09-11T04:54:40Z
 timeline:
   created: 2025-10-12
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-15
   lastPrerelease: 2026-09-10
 popularity:
-  star: 27038
+  star: 27044
   watcher: 93
   fork: 1839
   release: 99
@@ -91,7 +91,7 @@ total:
   commit: 10773
 ---
 path: /home/runner/.x-repo/github.com/steveyegge/beads
-collectedAt: 2026-09-11T00:08:06Z
+collectedAt: 2026-09-11T04:55:08Z
 loc:
   Go:
     code: 617731
