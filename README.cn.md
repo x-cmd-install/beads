@@ -14,14 +14,14 @@ x install beads
 
 ## 代码洞察
 
-合计: **679,629** 行代码（覆盖前 5 种语言、共 **2984** 个文件）。
+合计: **698,082** 行代码（覆盖前 5 种语言、共 **3043** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 618,214 | 122,962 | 81,675 | 2848 |
+| Go | 636,069 | 128,508 | 83,527 | 2907 |
 | Json | 26,380 | 0 | 0 | 43 |
-| Yaml | 10,975 | 53 | 260 | 7 |
-| Sh | 7,980 | 1,824 | 1,301 | 61 |
+| Yaml | 11,005 | 55 | 268 | 7 |
+| Sh | 8,544 | 2,062 | 1,373 | 61 |
 | Python | 7,939 | 571 | 1,833 | 25 |
 
 ## 源代码
@@ -32,43 +32,44 @@ x install beads
 
 ## 发布
 
-- **最新版本**: `v1.3.0-rc.2` (2026-08-15)
-- **最近提交**: 2026-09-12
-- **Release 含资产**: 10 个
+- **最新版本**: `v1.3.0` (2026-09-15)
+- **最近提交**: 2026-09-16
+- **Release 含资产**: 11 个
 
 ## 流行度
 
-- **Star**: 27,157 · **Fork**: 1,847 · **开放 issue**: 2,454 · **贡献者**: 448
+- **Star**: 27,187 · **Fork**: 1,847 · **开放 issue**: 2,456 · **贡献者**: 450
 
 ## 累计统计
 
-- **发布数**: 99 · **已合并 PR**: 2554 · **开放 PR**: 372 · **已关闭 issue**: 1642 · **开放 issue**: 812 · **提交数**: 10779
+- **发布数**: 100 · **已合并 PR**: 2556 · **开放 PR**: 379 · **已关闭 issue**: 1648 · **开放 issue**: 808 · **提交数**: 10821
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-17 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-19 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-20 | 99 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-25 | 99 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-17 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-18 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-20 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-21 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-26 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [beads-v1.2.2.spdx.json](https://github.com/steveyegge/beads/releases/download/v1.2.2/beads-v1.2.2.spdx.json) | 1.1 MiB | `other` |
-| [beads_1.2.2_android_arm64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.2.2/beads_1.2.2_android_arm64.tar.gz) | 26.9 MiB | `native/linux/arm64` |
-| [beads_1.2.2_darwin_amd64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.2.2/beads_1.2.2_darwin_amd64.tar.gz) | 47.2 MiB | `native/darwin/x64` |
-| [beads_1.2.2_darwin_arm64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.2.2/beads_1.2.2_darwin_arm64.tar.gz) | 42.8 MiB | `native/darwin/arm64` |
-| [beads_1.2.2_freebsd_amd64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.2.2/beads_1.2.2_freebsd_amd64.tar.gz) | 27.4 MiB | `native/linux/x64` |
-| [beads_1.2.2_linux_amd64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.2.2/beads_1.2.2_linux_amd64.tar.gz) | 46.8 MiB | `native/linux/x64` |
-| [beads_1.2.2_linux_arm64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.2.2/beads_1.2.2_linux_arm64.tar.gz) | 43.4 MiB | `native/linux/arm64` |
-| [beads_1.2.2_windows_amd64.zip](https://github.com/steveyegge/beads/releases/download/v1.2.2/beads_1.2.2_windows_amd64.zip) | 47.6 MiB | `native/win/x64` |
-| [beads_1.2.2_windows_arm64.zip](https://github.com/steveyegge/beads/releases/download/v1.2.2/beads_1.2.2_windows_arm64.zip) | 26.2 MiB | `native/win/arm64` |
-| [checksums.txt](https://github.com/steveyegge/beads/releases/download/v1.2.2/checksums.txt) | 780 B | `other` |
+| [beads-v1.3.0.spdx.json](https://github.com/steveyegge/beads/releases/download/v1.3.0/beads-v1.3.0.spdx.json) | 2.1 MiB | `other` |
+| [beads_1.3.0_android_arm64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.0/beads_1.3.0_android_arm64.tar.gz) | 29.8 MiB | `native/linux/arm64` |
+| [beads_1.3.0_contract_corpus.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.0/beads_1.3.0_contract_corpus.tar.gz) | 4.0 KiB | `native/unknown` |
+| [beads_1.3.0_darwin_amd64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.0/beads_1.3.0_darwin_amd64.tar.gz) | 50.9 MiB | `native/darwin/x64` |
+| [beads_1.3.0_darwin_arm64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.0/beads_1.3.0_darwin_arm64.tar.gz) | 46.1 MiB | `native/darwin/arm64` |
+| [beads_1.3.0_freebsd_amd64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.0/beads_1.3.0_freebsd_amd64.tar.gz) | 30.4 MiB | `native/linux/x64` |
+| [beads_1.3.0_linux_amd64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.0/beads_1.3.0_linux_amd64.tar.gz) | 50.7 MiB | `native/linux/x64` |
+| [beads_1.3.0_linux_arm64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.0/beads_1.3.0_linux_arm64.tar.gz) | 47.0 MiB | `native/linux/arm64` |
+| [beads_1.3.0_windows_amd64.zip](https://github.com/steveyegge/beads/releases/download/v1.3.0/beads_1.3.0_windows_amd64.zip) | 51.5 MiB | `native/win/x64` |
+| [beads_1.3.0_windows_arm64.zip](https://github.com/steveyegge/beads/releases/download/v1.3.0/beads_1.3.0_windows_arm64.zip) | 28.9 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/steveyegge/beads/releases/download/v1.3.0/checksums.txt) | 881 B | `other` |
 
 ## 改进这些数据
 
@@ -79,4 +80,4 @@ beads 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T05:22:30Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T05:18:13Z._
