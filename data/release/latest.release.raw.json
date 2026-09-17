@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2224644,
       "digest": "sha256:8dfe328dca90a324648cebb28650357162a0b63ac519ab40515c531fd56b319c",
-      "download_count": 1,
+      "download_count": 5,
       "created_at": "2026-09-15T19:42:35Z",
       "updated_at": "2026-09-15T19:42:35Z",
       "browser_download_url": "https://github.com/gastownhall/beads/releases/download/v1.3.0/beads-v1.3.0.spdx.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 31278527,
       "digest": "sha256:19610e85d3c0e4f365c0ddeb792e525b34b76dbe4c059a3b03aea2942ea2db31",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-09-15T19:33:14Z",
       "updated_at": "2026-09-15T19:33:15Z",
       "browser_download_url": "https://github.com/gastownhall/beads/releases/download/v1.3.0/beads_1.3.0_android_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4127,
       "digest": "sha256:f39d9cc52c2bb1bdb93ef28160d4614355cb5845e042ed9c89d87e0e021c5f55",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-09-15T19:33:19Z",
       "updated_at": "2026-09-15T19:33:20Z",
       "browser_download_url": "https://github.com/gastownhall/beads/releases/download/v1.3.0/beads_1.3.0_contract_corpus.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 53408982,
       "digest": "sha256:dfd8a6918bc2a58a0dbc727f7e4039766e323dfa15e4ccab250d640851e290d5",
-      "download_count": 7,
+      "download_count": 26,
       "created_at": "2026-09-15T19:40:40Z",
       "updated_at": "2026-09-15T19:40:42Z",
       "browser_download_url": "https://github.com/gastownhall/beads/releases/download/v1.3.0/beads_1.3.0_darwin_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 48318420,
       "digest": "sha256:7cc77367d0b84c50243a1108bc1f73648699211257d414b917540bf868e6bb85",
-      "download_count": 45,
+      "download_count": 249,
       "created_at": "2026-09-15T19:40:36Z",
       "updated_at": "2026-09-15T19:40:38Z",
       "browser_download_url": "https://github.com/gastownhall/beads/releases/download/v1.3.0/beads_1.3.0_darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 31879078,
       "digest": "sha256:89e340a02bec56f106faf6a759843175be3ad42f7b6a8df43b6442ae5ac14565",
-      "download_count": 1,
+      "download_count": 5,
       "created_at": "2026-09-15T19:33:07Z",
       "updated_at": "2026-09-15T19:33:09Z",
       "browser_download_url": "https://github.com/gastownhall/beads/releases/download/v1.3.0/beads_1.3.0_freebsd_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 53179375,
       "digest": "sha256:2f92b904ecf35b607e44dc5c39229173af69c54f1183e8d709f1773540cdcf3b",
-      "download_count": 512,
+      "download_count": 1512,
       "created_at": "2026-09-15T19:33:09Z",
       "updated_at": "2026-09-15T19:33:11Z",
       "browser_download_url": "https://github.com/gastownhall/beads/releases/download/v1.3.0/beads_1.3.0_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 49272237,
       "digest": "sha256:4ce9446a68edc13202b76c84a47d66fb3dad2787b6464c9522a108faf9c1c608",
-      "download_count": 33,
+      "download_count": 127,
       "created_at": "2026-09-15T19:33:11Z",
       "updated_at": "2026-09-15T19:33:13Z",
       "browser_download_url": "https://github.com/gastownhall/beads/releases/download/v1.3.0/beads_1.3.0_linux_arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 53984039,
       "digest": "sha256:fa4c72c5d27f68f906e89a759656b5a051b330088c4acc38fa445cbb561e5cdf",
-      "download_count": 89,
+      "download_count": 289,
       "created_at": "2026-09-15T19:33:15Z",
       "updated_at": "2026-09-15T19:33:17Z",
       "browser_download_url": "https://github.com/gastownhall/beads/releases/download/v1.3.0/beads_1.3.0_windows_amd64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 30348482,
       "digest": "sha256:bfd28da754f6adc271b77a5a21e59ac4053a0d794bcbe4ff6d5d8effca1bcb0d",
-      "download_count": 13,
+      "download_count": 24,
       "created_at": "2026-09-15T19:33:05Z",
       "updated_at": "2026-09-15T19:33:07Z",
       "browser_download_url": "https://github.com/gastownhall/beads/releases/download/v1.3.0/beads_1.3.0_windows_arm64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 881,
       "digest": "sha256:dfc88280d6883399068195c063d05a3323752755771ea545e30e19e0bd19f503",
-      "download_count": 330,
+      "download_count": 1108,
       "created_at": "2026-09-15T19:40:45Z",
       "updated_at": "2026-09-15T19:40:45Z",
       "browser_download_url": "https://github.com/gastownhall/beads/releases/download/v1.3.0/checksums.txt"
