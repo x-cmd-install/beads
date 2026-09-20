@@ -4,7 +4,7 @@
 
 Beads - A memory upgrade for your coding agent
 
-![beads](https://repo.x-cmd.io/beads.svg)
+[![x-cmd/install — beads Code Quality Monitoring Repo Card](https://repo.x-cmd.io/beads.svg)](https://x-cmd.com/install/beads)
 
 ## Install
 
@@ -33,27 +33,27 @@ Total: **698,082** lines of code across **3043** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.3.0` (2026-09-15)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-19
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 27,268 · **Forks**: 1,847 · **Open issues**: 2,468 · **Contributors**: 450
+- **Stars**: 27,316 · **Forks**: 1,850 · **Open issues**: 2,479 · **Contributors**: 450
 
 ## Totals (cumulative)
 
-- **Releases**: 100 · **Merged PRs**: 2560 · **Open PRs**: 389 · **Closed issues**: 1648 · **Open issues**: 820 · **Commits**: 10821
+- **Releases**: 100 · **Merged PRs**: 2562 · **Open PRs**: 389 · **Closed issues**: 1648 · **Open issues**: 831 · **Commits**: 10822
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 17 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for beads lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:06:02Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:09:49Z._
