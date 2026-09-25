@@ -14,11 +14,11 @@ x install beads
 
 ## Code insight
 
-Total: **706,182** lines of code across **3079** files in the top 5 languages.
+Total: **706,334** lines of code across **3079** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 644,169 | 131,540 | 84,246 | 2943 |
+| Go | 644,321 | 131,674 | 84,260 | 2943 |
 | Json | 26,380 | 0 | 0 | 43 |
 | Yaml | 11,005 | 55 | 268 | 7 |
 | Sh | 8,544 | 2,062 | 1,373 | 61 |
@@ -38,22 +38,22 @@ Total: **706,182** lines of code across **3079** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 27,394 · **Forks**: 1,854 · **Open issues**: 2,517 · **Contributors**: 451
+- **Stars**: 27,409 · **Forks**: 1,857 · **Open issues**: 2,524 · **Contributors**: 451
 
 ## Totals (cumulative)
 
-- **Releases**: 101 · **Merged PRs**: 2575 · **Open PRs**: 421 · **Closed issues**: 1649 · **Open issues**: 868 · **Commits**: 10833
+- **Releases**: 101 · **Merged PRs**: 2578 · **Open PRs**: 426 · **Closed issues**: 1652 · **Open issues**: 872 · **Commits**: 10834
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-26 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-26 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-28 | 17 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-29 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-04 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-26 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-27 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-27 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-29 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-30 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-05 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for beads lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:55:27Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:07:20Z._
