@@ -14,15 +14,15 @@ x install beads
 
 ## Code insight
 
-Total: **716,092** lines of code across **3154** files in the top 5 languages.
+Total: **731,700** lines of code across **3215** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 653,928 | 135,642 | 85,319 | 2998 |
+| Go | 668,973 | 140,110 | 86,559 | 3054 |
 | Json | 26,435 | 0 | 0 | 63 |
-| Yaml | 11,005 | 55 | 268 | 7 |
-| Sh | 8,548 | 2,062 | 1,373 | 61 |
-| Python | 7,988 | 571 | 1,833 | 25 |
+| Yaml | 11,039 | 55 | 270 | 7 |
+| Sh | 8,697 | 2,142 | 1,389 | 65 |
+| Python | 8,141 | 574 | 1,848 | 26 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **716,092** lines of code across **3154** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.3.1-rc.1` (2026-09-15)
-- **Last commit**: 2026-09-27
+- **Last commit**: 2026-09-28
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 27,460 · **Forks**: 1,859 · **Open issues**: 2,554 · **Contributors**: 459
+- **Stars**: 27,476 · **Forks**: 1,857 · **Open issues**: 2,592 · **Contributors**: 464
 
 ## Totals (cumulative)
 
-- **Releases**: 101 · **Merged PRs**: 2638 · **Open PRs**: 388 · **Closed issues**: 1687 · **Open issues**: 867 · **Commits**: 10893
+- **Releases**: 101 · **Merged PRs**: 2674 · **Open PRs**: 391 · **Closed issues**: 1707 · **Open issues**: 885 · **Commits**: 10929
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-29 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-29 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-31 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-02 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-07 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-29 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-30 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-30 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-01 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-03 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-08 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for beads lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:28:59Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:31:52Z._
