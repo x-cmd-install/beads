@@ -14,14 +14,14 @@ x install beads
 
 ## Code insight
 
-Total: **907,553** lines of code across **3967** files in the top 5 languages.
+Total: **914,282** lines of code across **4000** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 823,029 | 193,339 | 101,898 | 3737 |
-| Json | 37,084 | 0 | 0 | 83 |
+| Go | 828,239 | 194,767 | 102,403 | 3770 |
+| Json | 37,773 | 0 | 0 | 83 |
 | Python | 14,864 | 1,092 | 2,685 | 46 |
-| Yaml | 13,870 | 141 | 289 | 10 |
+| Yaml | 14,700 | 136 | 303 | 10 |
 | Sh | 10,332 | 3,149 | 1,540 | 91 |
 
 ## Source
@@ -38,22 +38,22 @@ Total: **907,553** lines of code across **3967** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 27,944 · **Forks**: 1,893 · **Open issues**: 2,849 · **Contributors**: 478
+- **Stars**: 27,973 · **Forks**: 1,893 · **Open issues**: 2,856 · **Contributors**: 477
 
 ## Totals (cumulative)
 
-- **Releases**: 105 · **Merged PRs**: 3057 · **Open PRs**: 432 · **Closed issues**: 1798 · **Open issues**: 1051 · **Commits**: 11306
+- **Releases**: 105 · **Merged PRs**: 3064 · **Open PRs**: 436 · **Closed issues**: 1798 · **Open issues**: 1058 · **Commits**: 11313
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-18 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-19 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-20 | 17 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-22 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-27 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-18 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-19 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-20 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-21 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-23 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-28 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for beads lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:33:09Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:38:57Z._
