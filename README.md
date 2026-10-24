@@ -14,15 +14,15 @@ x install beads
 
 ## Code insight
 
-Total: **950,665** lines of code across **4100** files in the top 5 languages.
+Total: **954,827** lines of code across **4101** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 862,659 | 205,617 | 105,287 | 3867 |
+| Go | 866,821 | 206,770 | 105,488 | 3868 |
 | Json | 39,382 | 0 | 0 | 86 |
 | Python | 14,865 | 1,098 | 2,687 | 46 |
 | Yaml | 14,700 | 136 | 303 | 10 |
-| Sh | 10,329 | 3,170 | 1,540 | 91 |
+| Sh | 10,329 | 3,173 | 1,540 | 91 |
 
 ## Source
 
@@ -32,44 +32,44 @@ Total: **950,665** lines of code across **4100** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.3.2-rc.3` (2026-09-30)
+- **Latest**: `v1.3.2` (2026-10-24)
 - **Last commit**: 2026-10-23
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 28,129 · **Forks**: 1,900 · **Open issues**: 2,875 · **Contributors**: 477
+- **Stars**: 28,160 · **Forks**: 1,899 · **Open issues**: 2,877 · **Contributors**: 477
 
 ## Totals (cumulative)
 
-- **Releases**: 106 · **Merged PRs**: 3157 · **Open PRs**: 445 · **Closed issues**: 1807 · **Open issues**: 1068 · **Commits**: 11401
+- **Releases**: 107 · **Merged PRs**: 3170 · **Open PRs**: 447 · **Closed issues**: 1807 · **Open issues**: 1070 · **Commits**: 11413
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-25 | 13 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-26 | 17 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-28 | 99 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-02 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-24 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-25 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-26 | 14 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-27 | 18 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-29 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-03 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [beads-v1.3.1.spdx.json](https://github.com/steveyegge/beads/releases/download/v1.3.1/beads-v1.3.1.spdx.json) | 1.6 MiB | `other` |
-| [beads_1.3.1_android_arm64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.1/beads_1.3.1_android_arm64.tar.gz) | 29.9 MiB | `native/linux/arm64` |
-| [beads_1.3.1_contract_corpus.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.1/beads_1.3.1_contract_corpus.tar.gz) | 4.0 KiB | `native/unknown` |
-| [beads_1.3.1_darwin_amd64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.1/beads_1.3.1_darwin_amd64.tar.gz) | 51.1 MiB | `native/darwin/x64` |
-| [beads_1.3.1_darwin_arm64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.1/beads_1.3.1_darwin_arm64.tar.gz) | 46.2 MiB | `native/darwin/arm64` |
-| [beads_1.3.1_freebsd_amd64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.1/beads_1.3.1_freebsd_amd64.tar.gz) | 30.5 MiB | `native/linux/x64` |
-| [beads_1.3.1_linux_amd64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.1/beads_1.3.1_linux_amd64.tar.gz) | 50.8 MiB | `native/linux/x64` |
-| [beads_1.3.1_linux_arm64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.1/beads_1.3.1_linux_arm64.tar.gz) | 47.1 MiB | `native/linux/arm64` |
-| [beads_1.3.1_windows_amd64.zip](https://github.com/steveyegge/beads/releases/download/v1.3.1/beads_1.3.1_windows_amd64.zip) | 51.6 MiB | `native/win/x64` |
-| [beads_1.3.1_windows_arm64.zip](https://github.com/steveyegge/beads/releases/download/v1.3.1/beads_1.3.1_windows_arm64.zip) | 29.0 MiB | `native/win/arm64` |
-| [checksums.txt](https://github.com/steveyegge/beads/releases/download/v1.3.1/checksums.txt) | 881 B | `other` |
+| [beads-v1.3.2.spdx.json](https://github.com/steveyegge/beads/releases/download/v1.3.2/beads-v1.3.2.spdx.json) | 2.1 MiB | `other` |
+| [beads_1.3.2_android_arm64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.2/beads_1.3.2_android_arm64.tar.gz) | 29.9 MiB | `native/linux/arm64` |
+| [beads_1.3.2_contract_corpus.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.2/beads_1.3.2_contract_corpus.tar.gz) | 4.0 KiB | `native/unknown` |
+| [beads_1.3.2_darwin_amd64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.2/beads_1.3.2_darwin_amd64.tar.gz) | 51.1 MiB | `native/darwin/x64` |
+| [beads_1.3.2_darwin_arm64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.2/beads_1.3.2_darwin_arm64.tar.gz) | 46.2 MiB | `native/darwin/arm64` |
+| [beads_1.3.2_freebsd_amd64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.2/beads_1.3.2_freebsd_amd64.tar.gz) | 30.5 MiB | `native/linux/x64` |
+| [beads_1.3.2_linux_amd64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.2/beads_1.3.2_linux_amd64.tar.gz) | 50.9 MiB | `native/linux/x64` |
+| [beads_1.3.2_linux_arm64.tar.gz](https://github.com/steveyegge/beads/releases/download/v1.3.2/beads_1.3.2_linux_arm64.tar.gz) | 47.2 MiB | `native/linux/arm64` |
+| [beads_1.3.2_windows_amd64.zip](https://github.com/steveyegge/beads/releases/download/v1.3.2/beads_1.3.2_windows_amd64.zip) | 51.7 MiB | `native/win/x64` |
+| [beads_1.3.2_windows_arm64.zip](https://github.com/steveyegge/beads/releases/download/v1.3.2/beads_1.3.2_windows_arm64.zip) | 29.0 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/steveyegge/beads/releases/download/v1.3.2/checksums.txt) | 881 B | `other` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for beads lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:59:46Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:50:00Z._
