@@ -38,22 +38,22 @@ Total: **1,048,180** lines of code across **4482** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 28,632 · **Forks**: 1,940 · **Open issues**: 2,977 · **Contributors**: 482
+- **Stars**: 28,665 · **Forks**: 1,943 · **Open issues**: 2,979 · **Contributors**: 482
 
 ## Totals (cumulative)
 
-- **Releases**: 111 · **Merged PRs**: 3342 · **Open PRs**: 671 · **Closed issues**: 1909 · **Open issues**: 1068 · **Commits**: 11578
+- **Releases**: 111 · **Merged PRs**: 3342 · **Open PRs**: 687 · **Closed issues**: 1909 · **Open issues**: 1070 · **Commits**: 11578
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 12 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-12 | 16 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-14 | 21 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-15 | 89 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-20 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-12 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-12 | 12 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-13 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-15 | 21 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-16 | 89 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-21 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for beads lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:27:23Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:27:43Z._
